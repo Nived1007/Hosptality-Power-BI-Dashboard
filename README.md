@@ -24,7 +24,7 @@ As a data analyst, your task is to analyze sample data and create a Power BI Das
     - Average Rating
 
 2. **Create a Dashboard:**
-    - Develop a Power BI Dashboard based on the provided mock-up from stakeholders.
+    - Develop a Power BI Dashboard based on the provided mock-up from stakeholders. You can access the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiODk5YzAwZDMtYTIwNC00NzBmLTk4M2ItNzFlYmVhMDMwOGU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 3. **Generate Relevant Insights:**
     - Identify and present insights not covered in the metric list or mock-up dashboard.
@@ -43,7 +43,6 @@ As a data analyst, your task is to analyze sample data and create a Power BI Das
 - **Booking Percentage by Platform:** Visualize the distribution of bookings across different platforms.
 - **Total Capacity vs. Total Booking:** Compare the total hotel capacity with the actual bookings.
 - **Revenue by City:** Present a graphical representation of revenue generated in different cities.
-
 
 
 Happy analyzing! 🚀
